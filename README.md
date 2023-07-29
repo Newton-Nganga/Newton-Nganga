@@ -6,9 +6,11 @@
 
 - 💬 Ask me about **react,nodejs,nextjs,tailwindcss**
 
-- 📫 How to reach me **nganga7newt@gmail.com**
-
+- 📫 How to reach me **newton.nganga.maiguah@gmail.com**
+  
+- Porfolio 👉 https://newton-nganga.vercel.app  
 <h3 align="left">Connect with me:</h3>
+ Email:newton.nganga.maiguah@gmail.com
 <p align="left">
 </p>
 

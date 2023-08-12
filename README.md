@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **React Native,Docker,Graphql,shell...**
 
-- 💬 Ask me about **react,nodejs,nextjs,tailwindcss**
+- 💬 Ask me about **react,nodejs/Express JS,nextjs,tailwindcss**
 
 - 📫 How to reach me **newton.nganga.maiguah@gmail.com**
   

@@ -16,6 +16,10 @@
   </a>
 </div>
 
+<div align="center">
+  <img src="https://tenor.com/view/coding-typing-big-brained-busy-sweating-gif-17808553" width="600" height="300"/>
+</div>
+
 <h1 align="center">Hi 👋, I'm Newton Nganga</h1>
 <h3 align="center">A passionate fullstack developer from Kenya.</h3>
 

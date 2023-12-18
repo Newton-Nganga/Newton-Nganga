@@ -1,4 +1,8 @@
 # Newton-Nganga
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="100"/>
+</div>
+
 <h1 align="center">Hi 👋, I'm Newton Nganaga</h1>
 <h3 align="center">A passionate fullstack developer from Kenya.</h3>
 

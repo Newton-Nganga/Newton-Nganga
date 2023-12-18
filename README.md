@@ -45,6 +45,9 @@ Cypress ,Python/Django ,Webpack, ES6+ ,HEROKU/VERCEL/CYCLIC servers ,UI?UX- FIGM
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Newton-Nganga&theme=dark&background=110913)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Newton-Nganga&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=newton-nganga&show_icons=true&locale=en&layout=compact" alt="newton-nganga" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=newton-nganga&show_icons=true&locale=en" alt="newton-nganga" /></p>

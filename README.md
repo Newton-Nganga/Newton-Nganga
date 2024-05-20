@@ -51,7 +51,7 @@
 
 ## Others
 
-CHAKRA UI,RESTFUL APIs,Cypress ,Python/Django ,Webpack, ES6+ ,HEROKU/VERCEL/CYCLIC servers ,UI?UX- FIGMA
+Docker, CHAKRA UI,RESTFUL APIs,Cypress ,Python/Django ,Webpack, ES6+ ,HEROKU/VERCEL/CYCLIC servers ,UI?UX- FIGMA
 
 ### :fire: My Stats :
 

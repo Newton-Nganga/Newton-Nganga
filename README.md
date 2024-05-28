@@ -23,11 +23,21 @@
 <h1 align="center">Hi 👋, I'm Newton Nganga</h1>
 <h3 align="center">A passionate fullstack developer from Kenya.</h3>
 
+
 - 🌱 I’m currently learning **React Native,Docker,Graphql,shell...**
 
 <h3 align="left">Tech , Languages and Tools:</h3>  
 
 ## Frontend
+
+
+![Frontend skills](https://github.com/Newton-Nganga/Newton-Nganga/assets/93589514/857a8dc8-b095-436a-84a2-a9d6604b322a)
+
+
+
+
+
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="Nextjs" alt="React" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="60" height="60"/>&nbsp;

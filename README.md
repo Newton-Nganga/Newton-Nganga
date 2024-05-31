@@ -24,9 +24,7 @@
 
  ![Intrroduction](https://github.com/Newton-Nganga/Newton-Nganga/assets/93589514/4f9d689d-b129-4142-8428-3b9c6c4d33dc)
 
-
-![Frontend skills transparent](https://github.com/Newton-Nganga/Newton-Nganga/assets/93589514/d4b2b7ad-427b-4af6-b310-6510872873bc)
-
+![Frontend skills transparent](https://github.com/Newton-Nganga/Newton-Nganga/assets/93589514/1151aaba-de1a-4838-ab21-6fc59e8e9707)
 
   
 </div>

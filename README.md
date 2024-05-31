@@ -17,13 +17,14 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300"/>
+  <img src="" width="600" height="300"/>
 </div>
 
 <h1 align="center"> 你好，欢迎 </h1>
 <h3 align="center"> :💀 Real devs use dark mode! 😉 </h3>
 
-![Intrroduction](https://github.com/Newton-Nganga/Newton-Nganga/assets/93589514/4f9d689d-b129-4142-8428-3b9c6c4d33dc)
+
+ ![Intrroduction](https://github.com/Newton-Nganga/Newton-Nganga/assets/93589514/4f9d689d-b129-4142-8428-3b9c6c4d33dc)
 
 
 <div width="100%">

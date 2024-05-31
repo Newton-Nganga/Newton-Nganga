@@ -23,8 +23,9 @@
 <h1 align="center">Hi 👋, I'm Newton Nganga</h1>
 <h3 align="center">A passionate fullstack developer from Kenya.</h3>
 
+![Intrroduction](https://github.com/Newton-Nganga/Newton-Nganga/assets/93589514/4f9d689d-b129-4142-8428-3b9c6c4d33dc)
 
-- 🌱 I’m currently learning **React Native,Docker,Graphql,shell...**
+
 
 <h3 align="left">Tech , Languages and Tools:</h3>  
 

@@ -1,4 +1,4 @@
-# Newton-Nganga
+![Frontend skills transparent](https://github.com/Newton-Nganga/Newton-Nganga/assets/93589514/d5e5a91d-693d-4866-9fdd-16edc1071f29)# Newton-Nganga
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="100"/>
@@ -24,7 +24,10 @@
 <div width="100%">
 
  ![Intrroduction](https://github.com/Newton-Nganga/Newton-Nganga/assets/93589514/4f9d689d-b129-4142-8428-3b9c6c4d33dc)
-![Frontend skills transparent](https://github.com/Newton-Nganga/Newton-Nganga/assets/93589514/6faf96fd-6c3f-4938-a0e7-925f143f27f6)
+
+
+![Frontend skills transparent](https://github.com/Newton-Nganga/Newton-Nganga/assets/93589514/d4b2b7ad-427b-4af6-b310-6510872873bc)
+
 
 
 ![Frontend skills](https://github.com/Newton-Nganga/Newton-Nganga/assets/93589514/857a8dc8-b095-436a-84a2-a9d6604b322a)

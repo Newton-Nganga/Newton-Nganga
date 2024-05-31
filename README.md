@@ -15,7 +15,7 @@
 </div>
 
 <h1 align="center"> 你好，欢迎 </h1>
-<h3 align="center"> ... 💀 Light attracts bug! 😉 ... </h3>   
+
 </div>
 
 <div width="100%">
@@ -39,3 +39,4 @@ Docker, CHAKRA UI,RESTFUL APIs,Cypress ,Python/Django ,Webpack, ES6+ ,HEROKU/VER
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=newton-nganga&show_icons=true&locale=en&background=110913" alt="newton-nganga" /></p>
 
+<h3 align="center"> ... 💀 Light attracts bug! 😉 ... </h3>   

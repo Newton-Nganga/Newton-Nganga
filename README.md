@@ -1,10 +1,10 @@
 
 
 <h1 align="center"> 你好，欢迎 </h1>    
-
+<h1 align="center">  
 [![](https://visitcount.itsvg.in/api?id=Newton-Nganga&icon=0&color=0)](https://visitcount.itsvg.in)    
 
-</div>
+</h1>  
 
  ![Intrroduction](https://github.com/Newton-Nganga/Newton-Nganga/assets/93589514/4f9d689d-b129-4142-8428-3b9c6c4d33dc)
 
